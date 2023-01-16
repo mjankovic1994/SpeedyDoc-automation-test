@@ -1,0 +1,1 @@
+# SpeedyDoc-automation-test
